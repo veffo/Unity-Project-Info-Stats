@@ -6,8 +6,8 @@
 
 <p align="center">
     <a href="#"><img alt="license MIT" src="https://img.shields.io/badge/license-MIT-8dbb05.svg" /></a>
-    <a href="#"><img alt="Stars" src="https://img.shields.io/github/stars/veffo/gitignore?style=flat-square" /></a>
-    <a href="#"><img alt="Forks" src="https://img.shields.io/github/forks/veffo/gitignore?style=flat-square" /></a>
+    <a href="#"><img alt="Stars" src="https://img.shields.io/github/stars/veffo/Unity-Project-Info-Stats?style=flat-square" /></a>
+    <a href="#"><img alt="Forks" src="https://img.shields.io/github/forks/veffo/Unity-Project-Info-Stats?style=flat-square" /></a>
 </p>
 
 <p align="center">
